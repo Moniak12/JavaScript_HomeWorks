@@ -1,0 +1,11 @@
+/*----First_Lesson----*/
+#quad{
+    width: 300px;
+    height: 300px;
+}
+
+/*----First_HomeWork----*/
+
+.btns{
+    display: flex;
+}
